@@ -10,9 +10,22 @@
 @import url('./container.css');
 @import url('./animations.css');
 
+/* Бібліотека SimpleLightbox */
+@import url('simplelightbox/dist/simple-lightbox.min.css');
+
+
 /* Sections style */
 @import url('./header.css');
 @import url('./vite-promo.css');
 @import url('./badges.css');
 @import url('./back-link.css');
 @import url('./footer.css');
+@import url('./gallary.css');
+@import url('./form.css');
+
+/* Common styles */
+@import url('./base.css');
+@import url('./container.css');
+@import url('./animations.css');
+
+
